@@ -1,0 +1,14 @@
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/bin/Debug/net10.0/BankingConsoleApp
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/bin/Debug/net10.0/BankingConsoleApp.deps.json
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/bin/Debug/net10.0/BankingConsoleApp.runtimeconfig.json
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/bin/Debug/net10.0/BankingConsoleApp.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/bin/Debug/net10.0/BankingConsoleApp.pdb
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.AssemblyInfoInputs.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.AssemblyInfo.cs
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.csproj.CoreCompileInputs.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/refint/BankingConsoleApp.dll
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.pdb
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/BankingConsoleApp.genruntimeconfig.cache
+/Users/rafaelbueno/Desktop/Bootcamp/WEEK_7/DAY_4/BankingSystem/BankingConsoleApp/obj/Debug/net10.0/ref/BankingConsoleApp.dll
